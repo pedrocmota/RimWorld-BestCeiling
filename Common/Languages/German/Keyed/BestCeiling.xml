@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>Deckenelemente anzeigen</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Deckenelemente anzeigen</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>Wenn deaktiviert, werden Deckenleuchten und Löschschaumwerfer an der Decke ausgeblendet. Sie funktionieren weiterhin normal.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Sichtbarkeits-Schaltfläche anzeigen</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Fügt der Leiste unten rechts eine Schaltfläche hinzu, um Deckenelemente schnell ein- oder auszublenden.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Muss unter einem Dach platziert werden.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>Kann nicht über solchen Objekten platziert werden.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>Kann nicht über dieser Art von Blaupause platziert werden.</WorkPlacer_OverBlueprint>
+</LanguageData>

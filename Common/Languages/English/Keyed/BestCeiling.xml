@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Owl_ToggleFixtures>Toggle visibility of ceiling fixtures.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Show ceiling fixtures</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>When disabled, ceiling-mounted lights and firefoam poppers are hidden from view. They keep working normally.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Show visibility toggle button</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Adds a button to the bottom-right toolbar to quickly show or hide ceiling fixtures.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Must be placed under a roof.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>Cannot place over these types of things.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>Cannot be placed over this type of blueprint.</WorkPlacer_OverBlueprint>
+</LanguageData>

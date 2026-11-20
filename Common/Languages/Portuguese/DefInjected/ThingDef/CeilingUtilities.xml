@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>lustre</Owl_Chandelier.label>
+	<Owl_Chandelier.description>Um lustre montado no teto com quatro tochas, uma de cada lado. Pode ser reabastecido automaticamente com madeira. Produz uma pequena quantidade de calor.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>luz de teto</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>Um candeeiro elétrico de teto que ilumina uma área. As pessoas precisam de luz para se moverem e trabalharem à velocidade máxima.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>luz de teto comprida</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>Um candeeiro elétrico de teto comprido que ilumina uma área ampla. As pessoas precisam de luz para se moverem e trabalharem à velocidade máxima.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>dispersor de espuma anti-fogo de teto</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>Quando deteta fogo, este dispositivo de segurança dispara e pulveriza espuma anti-fogo numa área circular à sua volta. Também pode ser acionado manualmente.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

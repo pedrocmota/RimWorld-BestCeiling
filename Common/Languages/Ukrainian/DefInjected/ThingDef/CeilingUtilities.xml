@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>люстра</Owl_Chandelier.label>
+	<Owl_Chandelier.description>Стельова люстра з чотирма факелами, по одному з кожного боку. Можна автоматично заправляти деревом. Трохи гріє.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>стельовий світильник</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>Електричний стельовий світильник для освітлення ділянки. Людям потрібне світло, щоб рухатися й працювати на повну швидкість.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>довгий стельовий світильник</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>Довгий електричний стельовий світильник, що освітлює велику ділянку. Людям потрібне світло, щоб рухатися й працювати на повну швидкість.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>стельовий пристрій з протипожежною піною</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>Виявивши вогонь, цей захисний пристрій спрацьовує й розпилює довкола себе вогнегасну піну. Можна активувати й вручну.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

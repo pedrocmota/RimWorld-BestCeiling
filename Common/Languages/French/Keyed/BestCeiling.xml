@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>Activer la visibilité des luminaires de plafond.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Afficher les luminaires de plafond</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>Une fois désactivé, les luminaires et extincteurs à mousse de plafond sont masqués. Ils continuent de fonctionner normalement.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Afficher le bouton de visibilité</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Ajoute un bouton à la barre en bas à droite pour afficher ou masquer rapidement les luminaires de plafond.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Doit être placé sous un toit.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>Ne peut être placé sur ce type d'objet.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>Ne peut être placé sur ce type de plan.</WorkPlacer_OverBlueprint>
+</LanguageData>

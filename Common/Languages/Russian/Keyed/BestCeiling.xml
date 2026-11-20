@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>Отображение потолочного оборудования.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Показывать потолочное оборудование</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>Если отключено, потолочные светильники и хлопушки с пожарной пеной скрываются. При этом они продолжают работать как обычно.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Показывать кнопку видимости</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Добавляет кнопку на панель в правом нижнем углу для быстрого показа или скрытия потолочного оборудования.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Должно быть размещено под крышей.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>Нельзя разместить поверх таких объектов.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>Нельзя разместить поверх такого проекта.</WorkPlacer_OverBlueprint>
+</LanguageData>

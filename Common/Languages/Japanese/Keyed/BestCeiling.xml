@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>天井設備の可視 切り替え</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>天井設備を表示</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>無効にすると,天井の照明と泡消火器が非表示になります.機能は通常どおり働きます.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>表示切り替えボタンを表示</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>右下のツールバーに,天井設備をすばやく表示/非表示にするボタンを追加します.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>屋根の下に設置する必要があります.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>この種類の物の上には設置できません.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>この種類の設計の上には設置できません.</WorkPlacer_OverBlueprint>
+</LanguageData>

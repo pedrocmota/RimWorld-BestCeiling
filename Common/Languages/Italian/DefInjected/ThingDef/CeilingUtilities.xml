@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>lampadario</Owl_Chandelier.label>
+	<Owl_Chandelier.description>Un lampadario appeso al soffitto con quattro torce, una per lato. Può essere alimentato automaticamente con del legno. Produce una piccola quantità di calore.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>plafoniera</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>Una lampada elettrica a soffitto per illuminare un'area. Le persone hanno bisogno di luce per muoversi e lavorare alla massima velocità.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>plafoniera lunga</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>Una lunga lampada elettrica a soffitto che illumina un'ampia area. Le persone hanno bisogno di luce per muoversi e lavorare alla massima velocità.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>estintore a schiuma a soffitto</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>Quando rileva il fuoco, questo dispositivo di sicurezza esplode proiettando una schiuma estinguente in un raggio attorno ad esso. Può essere anche attivato manualmente.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>切換天花板設施的可見性。</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>顯示天花板設施</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>停用後，天花板上的燈具和滅火裝置將被隱藏。它們仍會正常運作。</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>顯示可見性切換按鈕</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>在右下角工具列中加入一個按鈕，用於快速顯示或隱藏天花板設施。</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>必須放置在屋頂下。</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>不能放置在此類物件上。</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>不能放置在此類藍圖上。</WorkPlacer_OverBlueprint>
+</LanguageData>

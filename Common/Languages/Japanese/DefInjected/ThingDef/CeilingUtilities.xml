@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>シャンデリア</Owl_Chandelier.label>
+	<Owl_Chandelier.description>天井に取り付けるシャンデリアです.四方に1本ずつ,計4本のトーチが付いています.木材があれば自動的に燃料補給できます.少量の熱を発します.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>シーリングライト</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>辺りを照らす天井取り付け型の電灯です.人間の移動速度や作業効率を落とさないためには,光が必要です.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>ロングシーリングライト</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>広い範囲を照らす,細長い天井取り付け型の電灯です.人間の移動速度や作業効率を落とさないためには,光が必要です.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>天井泡消火器</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>火災を検知した時,この安全装置が起動し泡消火剤を,機器を中心にして円状にまき散らします.手動でも操作できます.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

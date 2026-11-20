@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>candelabro</Owl_Chandelier.label>
+	<Owl_Chandelier.description>Un candelabro montado en el techo con cuatro antorchas, una de cada lado. Se puede repostar automáticamente con madera. Genera una pequeña cantidad de calor.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>luz de techo</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>Una lámpara eléctrica de techo que ilumina a su alrededor. La gente necesita luz para moverse y trabajar a toda velocidad.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>luz de techo larga</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>Una lámpara eléctrica de techo larga que ilumina una zona amplia. La gente necesita luz para moverse y trabajar a toda velocidad.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>rociador de espuma cortafuego de techo</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>Cuando detecta un incendio, este dispositivo de seguridad se activa y rocía una espuma ignífuga en un campo circular a su alrededor. También puede activarse manualmente.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>Kronleuchter</Owl_Chandelier.label>
+	<Owl_Chandelier.description>Ein an der Decke befestigter Kronleuchter mit vier Fackeln, eine an jeder Seite. Kann automatisch mit Holz nachgefüllt werden und erzeugt etwas Wärme.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>Deckenleuchte</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>Eine elektrische Deckenleuchte zum Ausleuchten eines Bereichs. Menschen brauchen Licht, um mit maximaler Geschwindigkeit gehen oder arbeiten zu können.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>lange Deckenleuchte</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>Eine lange elektrische Deckenleuchte, die einen großen Bereich ausleuchtet. Menschen brauchen Licht, um mit maximaler Geschwindigkeit gehen oder arbeiten zu können.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>Decken-Löschschaumwerfer</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>Wenn der Werfer ein Feuer registriert, versprüht er einen feuerhemmenden Schaum in einem kreisförmigen Bereich um sich herum. Kann auch manuell ausgelöst werden.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

@@ -1,0 +1,5 @@
+<Project>
+  <PropertyGroup>
+    <BaseIntermediateOutputPath>$([System.IO.Path]::GetTempPath())BestCeiling\obj\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+</Project>

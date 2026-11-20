@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>люстра</Owl_Chandelier.label>
+	<Owl_Chandelier.description>Потолочная люстра с четырьмя факелами, по одному с каждой стороны. Можно автоматически заправлять деревом. Производит небольшое количество тепла.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>потолочный светильник</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>Электрический потолочный светильник для освещения области. Свет нужен людям для работы и удобства передвижения.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>длинный потолочный светильник</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>Длинный электрический потолочный светильник, освещающий большую область. Свет нужен людям для работы и удобства передвижения.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>потолочная хлопушка с пожарной пеной</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>При взаимодействии с огнём или ручной активации взрывается и разбрасывает в определённом радиусе вокруг себя пожарную пену.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

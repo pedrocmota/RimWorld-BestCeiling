@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>Alternar a visibilidade das luminárias de teto.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Mostrar luminárias de teto</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>Quando desativado, as luzes e os dispersores de espuma anti-fogo de teto ficam ocultos. Continuam a funcionar normalmente.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Mostrar botão de visibilidade</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Adiciona um botão à barra no canto inferior direito para mostrar ou ocultar rapidamente as luminárias de teto.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Tem de ser colocado debaixo de um telhado.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>Não pode ser colocado sobre este tipo de coisas.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>Não pode ser colocado sobre este tipo de planta.</WorkPlacer_OverBlueprint>
+</LanguageData>

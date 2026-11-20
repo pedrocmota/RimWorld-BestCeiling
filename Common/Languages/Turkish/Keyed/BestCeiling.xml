@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>Tavan donanımlarının görünürlüğünü aç/kapat.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Tavan donanımlarını göster</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>Devre dışı bırakıldığında tavan lambaları ve otomatik yangın söndürücüler gizlenir. Normal şekilde çalışmaya devam ederler.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Görünürlük düğmesini göster</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Sağ alttaki araç çubuğuna tavan donanımlarını hızlıca gösterip gizlemek için bir düğme ekler.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Çatı altına yerleştirilmelidir.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>Bu tür nesnelerin üzerine yerleştirilemez.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>Bu tür bir şablonun üzerine yerleştirilemez.</WorkPlacer_OverBlueprint>
+</LanguageData>

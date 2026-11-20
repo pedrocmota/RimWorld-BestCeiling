@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>Żyrandol</Owl_Chandelier.label>
+	<Owl_Chandelier.description>Żyrandol zawieszony pod sufitem z czterema pochodniami, po jednej z każdej strony. Może być automatycznie uzupełniany drewnem. Produkuje małą ilość ciepła.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>Lampa sufitowa</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>Elektryczna lampa sufitowa oświetlająca okolicę. Ludzie potrzebują światła, żeby poruszać się i pracować na pełnych obrotach.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>Długa lampa sufitowa</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>Długa elektryczna lampa sufitowa oświetlająca duży obszar. Ludzie potrzebują światła, żeby poruszać się i pracować na pełnych obrotach.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>Sufitowe urządzenie gaśnicze</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>Urządzenie bezpieczeństwa. W przypadku wykrycia ognia, aktywuje się, spryskując pobliski obszar pianą gaśniczą. Może zostać również uruchomione ręcznie.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

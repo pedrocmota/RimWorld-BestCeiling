@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>Activar la visibilidad de las luces de techo.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Mostrar luces de techo</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>Si se desactiva, las luces y los rociadores de espuma cortafuego de techo quedan ocultos. Siguen funcionando normalmente.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Mostrar botón de visibilidad</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Agrega un botón a la barra de la esquina inferior derecha para mostrar u ocultar rápidamente las luces de techo.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Debe ubicarse bajo techo.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>No se puede ubicar sobre este tipo de cosas.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>No se puede ubicar sobre este tipo de anteproyecto.</WorkPlacer_OverBlueprint>
+</LanguageData>

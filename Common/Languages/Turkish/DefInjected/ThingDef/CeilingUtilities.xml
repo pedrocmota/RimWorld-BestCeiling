@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>avize</Owl_Chandelier.label>
+	<Owl_Chandelier.description>Tavana monte edilmiş, her yanında birer tane olmak üzere dört meşaleli bir avize. Otomatik olarak odun ile beslenir. Az miktarda ısı üretir.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>tavan lambası</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>Bir alanı aydınlatan elektrikli bir tavan lambası. İnsanlar, tam hızda hareket edebilmek ve çalışabilmek için ışığa ihtiyaç duyarlar.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>uzun tavan lambası</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>Geniş bir alanı aydınlatan uzun, elektrikli bir tavan lambası. İnsanlar, tam hızda hareket edebilmek ve çalışabilmek için ışığa ihtiyaç duyarlar.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>tavan tipi otomatik yangın söndürücü</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>Çevresindeki dairesel alanda yangın tespit ettiği zaman otomatik olarak patlar ve yanmaz köpük saçar. Ayrıca, manuel olarak da tetiklenebilir.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

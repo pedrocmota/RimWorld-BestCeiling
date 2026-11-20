@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>吊灯</Owl_Chandelier.label>
+	<Owl_Chandelier.description>安装在天花板上的吊灯，四边各有一支火把。需要添加木材作为燃料。产生少量的热量。</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>吸顶灯</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>安装在天花板上的电灯，可将一片区域照亮。人们需要有光亮才能以全速工作和移动。</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>长吸顶灯</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>安装在天花板上的长条电灯，可将一大片区域照亮。人们需要有光亮才能以全速工作和移动。</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>吸顶泡沫灭火器</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>当被火焰触发或手动激活后，这种安全装置会向着四周圆形范围喷出阻燃泡沫。</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

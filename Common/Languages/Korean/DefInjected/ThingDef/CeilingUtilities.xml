@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>샹들리에</Owl_Chandelier.label>
+	<Owl_Chandelier.description>천장에 다는 샹들리에입니다. 네 면에 횃불이 하나씩 달려 있습니다. 나무를 자동으로 다시 넣을 수 있습니다. 약한 열을 발산합니다.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>천장등</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>주변을 밝게 비추는 전기 천장등입니다. 최대 속도로 이동하고 작업하려면 불빛이 필요합니다.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>긴 천장등</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>넓은 범위를 밝게 비추는 긴 전기 천장등입니다. 최대 속도로 이동하고 작업하려면 불빛이 필요합니다.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>천장 소방거품 분사기</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>불에 닿으면 터져 주위에 원형으로 불연성 거품을 뿌립니다. 수동으로 작동시킬 수도 있습니다.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>

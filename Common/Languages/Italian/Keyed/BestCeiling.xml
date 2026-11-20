@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>Imposta visibilità dei dispositivi a soffitto.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Mostra dispositivi a soffitto</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>Se disattivato, le luci e gli estintori a schiuma a soffitto vengono nascosti. Continuano a funzionare normalmente.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Mostra pulsante di visibilità</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Aggiunge un pulsante alla barra in basso a destra per mostrare o nascondere rapidamente i dispositivi a soffitto.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Deve essere posizionato sotto una copertura.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>Non può essere posizionato sopra questo tipo di oggetti.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>Non può essere posizionato sopra questo tipo di progetto.</WorkPlacer_OverBlueprint>
+</LanguageData>

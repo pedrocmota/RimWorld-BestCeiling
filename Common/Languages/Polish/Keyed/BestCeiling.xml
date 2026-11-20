@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>Przełącz widoczność elementów sufitowych.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Pokaż elementy sufitowe</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>Po wyłączeniu sufitowe lampy i urządzenia gaśnicze są ukryte. Nadal działają normalnie.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Pokaż przycisk widoczności</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Dodaje przycisk do paska w prawym dolnym rogu, pozwalający szybko pokazać lub ukryć elementy sufitowe.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Musi zostać umieszczone pod dachem.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>Nie można umieścić na tego typu obiektach.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>Nie można umieścić na tego typu planie.</WorkPlacer_OverBlueprint>
+</LanguageData>

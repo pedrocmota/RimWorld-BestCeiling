@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>开关天花板设施显示。</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>显示天花板设施</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>禁用后，天花板上的灯具和泡沫灭火器将被隐藏。它们仍会正常工作。</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>显示可见性切换按钮</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>在右下角工具栏中添加一个按钮，用于快速显示或隐藏天花板设施。</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>必须放置于屋顶下。</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>无法放置在此类物体上。</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>无法放置在此类蓝图上。</WorkPlacer_OverBlueprint>
+</LanguageData>

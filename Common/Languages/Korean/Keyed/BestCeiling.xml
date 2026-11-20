@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>천장 설비를 표시합니다.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>천장 설비 표시</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>비활성화하면 천장 조명과 소방거품 분사기가 숨겨집니다. 기능은 평소대로 작동합니다.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>표시 전환 버튼 보이기</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>오른쪽 아래 도구 모음에 천장 설비를 빠르게 표시하거나 숨기는 버튼을 추가합니다.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>지붕 아래에 배치해야 합니다.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>이런 종류의 물체 위에는 배치할 수 없습니다.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>이런 종류의 청사진 위에는 배치할 수 없습니다.</WorkPlacer_OverBlueprint>
+</LanguageData>

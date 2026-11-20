@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_ToggleFixtures>Перемкнути видимість стельового обладнання.</Owl_ToggleFixtures>
+	<Utilities_drawFixtures>Показувати стельове обладнання</Utilities_drawFixtures>
+	<Utilities_drawFixturesDesc>Якщо вимкнено, стельові світильники та пристрої з протипожежною піною приховуються. Вони й далі працюють як зазвичай.</Utilities_drawFixturesDesc>
+	<Utilities_useDrawFixturesToggle>Показувати кнопку видимості</Utilities_useDrawFixturesToggle>
+	<Utilities_useDrawFixturesToggleDesc>Додає кнопку на панель у нижньому правому куті, щоб швидко показувати чи приховувати стельове обладнання.</Utilities_useDrawFixturesToggleDesc>
+	<WorkPlacer_NeedsRoof>Потрібно розмістити під дахом.</WorkPlacer_NeedsRoof>
+	<WorkPlacer_OverForbiddenThing>Неможливо розмістити поверх таких об’єктів.</WorkPlacer_OverForbiddenThing>
+	<WorkPlacer_OverBlueprint>Неможливо розмістити поверх такого проєкту.</WorkPlacer_OverBlueprint>
+</LanguageData>

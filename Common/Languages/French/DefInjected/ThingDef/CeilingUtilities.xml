@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<Owl_Chandelier.label>lustre</Owl_Chandelier.label>
+	<Owl_Chandelier.description>Un lustre suspendu au plafond, avec quatre torches, une de chaque côté. Peut être automatiquement ravitaillé avec du bois. Produit un peu de chaleur.</Owl_Chandelier.description>
+	<Owl_CeilingLight.label>plafonnier</Owl_CeilingLight.label>
+	<Owl_CeilingLight.description>Une lampe électrique fixée au plafond pour éclairer un endroit. Les gens ont besoin de lumière pour se déplacer et travailler à pleine vitesse.</Owl_CeilingLight.description>
+	<Owl_LongCeilingLight.label>plafonnier long</Owl_LongCeilingLight.label>
+	<Owl_LongCeilingLight.description>Une longue lampe électrique fixée au plafond qui éclaire une large zone. Les gens ont besoin de lumière pour se déplacer et travailler à pleine vitesse.</Owl_LongCeilingLight.description>
+	<Owl_CeilingFirefoamPopper.label>extincteur à mousse de plafond</Owl_CeilingFirefoamPopper.label>
+	<Owl_CeilingFirefoamPopper.description>De la mousse anti-incendie est projetée et diffusée dans un cercle autour de cet extincteur, lorsque celui-ci est en contact de flammes ou est activé à la main.</Owl_CeilingFirefoamPopper.description>
+</LanguageData>
